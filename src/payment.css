@@ -1,0 +1,24 @@
+.payment-form-container {
+    border: 2px solid;
+    border-radius: 10px;
+    width: 30%;
+    padding: 16px;
+    margin: auto;
+    background-color: beige;
+  }
+
+
+  @media only screen and (max-width: 700px) {
+
+    .payment-form-container {
+        border: 2px solid;
+        border-radius: 10px;
+        width: 80%;
+        padding: 16px;
+        margin: auto;
+        background-color: lightblue;
+      }
+    
+
+
+  }
